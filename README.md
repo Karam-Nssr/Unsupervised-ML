@@ -54,7 +54,7 @@ information about customers, transactions, branches, and merchants. <br/>
 15. Sygment Analysing and Recommendations.<br/>
 16. Creating a 3d scatterplot for customer clusters with Plotly and Dimensionality Reduction using PCA.<br/>
 ## Conclusions:<br/>
-1. Cluster 0(light pink):<br/>
+## 1. Cluster 0:<br/>
 ### Recency: <br/>
 This cluster consists of customers with higher recency values(they haven’t visited the store in a while).<br/>
 ### Transaction Count:<br/>
@@ -65,7 +65,7 @@ Despite the low transaction count, this group has claimed some coupons, though n
 The number of burned coupons is low.<br/>
 ### Behavioral Insight: <br/>
 Customers in Cluster 0 are less engaged. They have not visited recently, and their transaction count is low, so they might be at risk of stopping their shopping habits at the store.<br/>
-## 2. Cluster 1(purple):<br/>
+## 2. Cluster 1:<br/>
 ### Recency: <br/>
 These customers have low to moderate recency(they visit the store somewhat frequently).<br/>
 ### Transaction Count: <br/>
@@ -76,7 +76,7 @@ This group claims a good number of coupons.<br/>
 The number of coupons burned is medium, but lower than Cluster 2.<br/>
 ### Behavioral Insight: <br/>
 Customers in Cluster 1 are moderately engaged. They shop fairly regularly and are somewhat active in using coupons.<br/>
-## 3. Cluster 2(dark purple):<br/>
+## 3. Cluster 2:<br/>
 ### Recency: <br/>
 This group has the lowest recency values(they visit the store frequently).<br/>
 ### Transaction Count: <br/>
